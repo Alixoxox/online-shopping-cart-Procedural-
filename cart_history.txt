@@ -1,0 +1,25 @@
+Product ID: 10, Name: carrom board, Price: 2000, Quantity: 3
+Product ID: 1, Name: cricket bat, Price: 1200, Quantity: 5
+Product ID: 3, Name: football, Price: 750, Quantity: 6
+Product ID: 8, Name: hockey, Price: 550, Quantity: 9
+Product ID: 4, Name: basket ball, Price: 800, Quantity: 5
+Product ID: 1, Name: cricket bat, Price: 1200, Quantity: 2
+Removed from Cart: Product ID: 4, Name: basket ball, Price: 800, Quantity: 4
+Removed from Cart: Product ID: 2, Name: cricket ball, Price: 250, Quantity: 2
+Removed from Cart: Product ID: 9, Name: volley ball, Price: 450, Quantity: 8
+Removed from Cart: Product ID: 4, Name: basket ball, Price: 800, Quantity: 5
+Removed from Cart: Product ID: 3, Name: football, Price: 750, Quantity: 4
+Removed from Cart: Product ID: 1, Name: cricket bat, Price: 1200, Quantity: 1
+Removed from Cart: Product ID: 1, Name: cricket bat, Price: 1200, Quantity: 2313213131
+Removed from Cart: Product ID: 2, Name: cricket ball, Price: 250, Quantity: 2
+Removed from Cart: Product ID: 6, Name: table tennis, Price: 500, Quantity: 2
+Removed from Cart: Product ID: 7, Name: frisbee, Price: 200, Quantity: 4
+Removed from Cart: Product ID: 8, Name: hockey, Price: 550, Quantity: 1
+Removed from Cart: Product ID: 10, Name: carrom board, Price: 2000, Quantity: 4
+Removed from Cart: Product ID: 2, Name: cricket ball, Price: 250, Quantity: 2
+Removed from Cart: Product ID: 1, Name: cricket bat, Price: 1200, Quantity: 1
+Removed from Cart: Product ID: 2, Name: cricket ball, Price: 250, Quantity: 2
+Removed from Cart: Product ID: 5, Name: badminton, Price: 850, Quantity: 2
+Removed from Cart: Product ID: 3, Name: football, Price: 750, Quantity: 2
+Removed from Cart: Product ID: 3, Name: football, Price: 750, Quantity: 2
+Removed from Cart: Product ID: 1, Name: cricket bat, Price: 1200, Quantity: 10

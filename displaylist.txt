@@ -1,0 +1,15 @@
+      ******** WELCOME TO HHS SPORTS ********
+___________________________________________________
+|   PRODUCT ID  |     PRODUCT NAME   |   PRICE    |                 
+|_______________|____________________|____________|
+|       1       |    CRICKET BAT     |    RS 1200 |            
+|       2       |    CRICKET BALL    |    RS 250  |           
+|       3       |    FOOTBALL        |    RS 750  |      
+|       4       |    BASKET BALL     |    RS 800  |        
+|       5       |    BADMINTON       |    RS 850  |
+|       6       |    TABLE TENNIS    |    RS 500  |                     
+|       7       |    FRISBEE         |    RS 200  |    
+|       8       |    HOCKEY          |    RS 550  |   
+|       9       |    VOLLEY BALL     |    RS 450  |                          
+|      10       |    CARROM BOARD    |    RS 2000 |       
+|_______________|____________________|____________|
